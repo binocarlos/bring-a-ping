@@ -1,0 +1,30 @@
+{
+  "name": "bring-a-ping",
+  "version": "0.0.1",
+  "description": "a module that says 'ping' - used to test basic docker behaviour",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "bin":{
+    "bring-a-ping":"cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/binocarlos/bring-a-ping.git"
+  },
+  "keywords": [
+    "mesh",
+    "docker",
+    "etcd"
+  ],
+  "author": "Kai Davenport",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/binocarlos/bring-a-ping/issues"
+  },
+  "homepage": "https://github.com/binocarlos/bring-a-ping",
+  "dependencies": {
+    "minimist": "^0.2.0"
+  }
+}
