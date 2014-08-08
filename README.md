@@ -31,7 +31,7 @@ ping
 docker:
 
 ```
-$ docker run binocarlos/bring-a-ping
+$ docker run --rm binocarlos/bring-a-ping
 ping
 ```
 
